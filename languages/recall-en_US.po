@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Recall 0.7\n"
+"POT-Creation-Date: 2015-04-15 16:03+0100\n"
+"PO-Revision-Date: 2015-04-15 16:03+0100\n"
+"Last-Translator: Mike Rooijackers <info@mikerooijackers.nl>\n"
+"Language-Team: Mike Rooijackers <info@mikerooijackers.nl>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: recall-add.php:8
+msgid "Not all fields are filled!"
+msgstr ""
+
+#: recall-add.php:23
+msgid "Manufacturer added"
+msgstr ""
+
+#: recall-add.php:28
+msgid "Manufacturer already exists"
+msgstr ""
+
+#: recall-add.php:36 recall.php:117
+msgid "Recall Settings"
+msgstr ""
+
+#: recall-add.php:43
+msgid "Enter Manufacturer here"
+msgstr ""
+
+#: recall-add.php:48
+msgid "Add"
+msgstr ""
+
+#: recall-export.php:64 recall-settings.php:64
+msgid "No data available"
+msgstr ""
+
+#: recall-manufacturer.php:79 recall-manufacturer.php:173 recall-model.php:81
+#: recall.php:118 recall.php:220
+msgid "Manufacturer"
+msgstr ""
+
+#: recall-manufacturer.php:80
+msgid "Author"
+msgstr ""
+
+#: recall-manufacturer.php:95 recall-model.php:98
+msgid "Delete"
+msgstr ""
+
+#: recall-manufacturer.php:117
+msgid "Manufacturer deleted"
+msgstr ""
+
+#: recall-manufacturer.php:121
+msgid ""
+"Manufacturer has models. First remove the models for which the manufacturer "
+"can be removed."
+msgstr ""
+
+#: recall-manufacturer.php:173 recall.php:119
+msgid "Add New"
+msgstr ""
+
+#: recall-model.php:80 recall-model.php:216 recall.php:120 recall.php:233
+msgid "Model"
+msgstr ""
+
+#: recall-model.php:82
+msgid "Subscription"
+msgstr ""
+
+#: recall-model.php:120
+msgid "Model deleted"
+msgstr ""
+
+#: recall-model.php:124
+msgid ""
+"Customers have this model. Remove the customers who have this model. Only "
+"then the model can be removed."
+msgstr ""
+
+#: recall-settings.php:76
+msgid "Terms and Conditions URL"
+msgstr ""
+
+#: recall-settings.php:85
+msgid "Export all subscribers"
+msgstr ""
+
+#: recall.php:117
+msgid "Recall"
+msgstr ""
+
+#: recall.php:119
+msgid "Add Manufacturer"
+msgstr ""
+
+#: recall.php:178
+msgid "Manufacturer is not filled!"
+msgstr ""
+
+#: recall.php:181
+msgid "Model is not filled!"
+msgstr ""
+
+#: recall.php:184
+msgid "Firstname is not filled!"
+msgstr ""
+
+#: recall.php:187
+msgid "Lastname is not filled!"
+msgstr ""
+
+#: recall.php:190
+msgid "E-mail is not filled!"
+msgstr ""
+
+#: recall.php:207
+msgid "You are registered"
+msgstr ""
+
+#: recall.php:211
+msgid "Terms and Conditions not accepted"
+msgstr ""
+
+#: recall.php:223
+msgid "Select a manufacturer"
+msgstr ""
+
+#: recall.php:237
+msgid "Firstname"
+msgstr ""
+
+#: recall.php:241
+msgid "Lastname"
+msgstr ""
+
+#: recall.php:245
+msgid "E-mail"
+msgstr ""
+
+#: recall.php:249
+msgid "required"
+msgstr ""
+
+#: recall.php:250
+msgid "Terms and Conditions"
+msgstr ""
+
+#: recall.php:251
+msgid "Register"
+msgstr ""
+
+#: recall.php:289
+msgid "Widget Title:"
+msgstr ""
